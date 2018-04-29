@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: store.julang.product:store-model:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/store/julang/product/store-model/1.0-SNAPSHOT/store-model-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/store-product-model/store-model-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/store/julang/product/store-model/1.0-SNAPSHOT/store-model-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/store-product-model/store-model-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/store/julang/product/store-model/1.0-SNAPSHOT/store-model-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

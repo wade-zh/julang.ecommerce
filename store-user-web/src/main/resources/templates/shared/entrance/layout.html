@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout">
+<head>
+    <!--/*  Each token will be replaced by their respective titles in the resulting page. */-->
+    <th:block th:replace="shared/entrance/header :: header" />
+</head>
+<body id="mimin" class="dashboard form-signin-wrapper">
+    <div class="container">
+        <th:block layout:fragment="body" />
+    </div>
+    <th:block th:replace="shared/entrance/footer :: footer" />
+    <th:block layout:fragment="vfooter" />
+</body>
+</html>

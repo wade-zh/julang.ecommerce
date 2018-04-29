@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/store-api-gateway/store-api-gateway.iml" filepath="$PROJECT_DIR$/store-api-gateway/store-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-common/store-common.iml" filepath="$PROJECT_DIR$/store-common/store-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-console/store-console-eureka-server/store-console-eureka-server.iml" filepath="$PROJECT_DIR$/store-console/store-console-eureka-server/store-console-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-entity/store-entity.iml" filepath="$PROJECT_DIR$/store-entity/store-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-service-user/store-service-user.iml" filepath="$PROJECT_DIR$/store-service-user/store-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-user-web/store-user-web.iml" filepath="$PROJECT_DIR$/store-user-web/store-user-web.iml" />
+    </modules>
+  </component>
+</project>

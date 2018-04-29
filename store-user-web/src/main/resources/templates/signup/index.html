@@ -1,0 +1,51 @@
+<!-- 
+   Welcome to see the “JuLang” application source code.
+   We look forward to your feedback to our program.
+   email -> service@julang.store
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+      layout:decorate="~{shared/entrance/layout}">
+<head>
+    <meta name="keywords" th:content="${page_user_login_keywords}">
+    <meta name="description" th:content="${page_user_login_description}">
+    <title th:text="${page_user_login_title}"></title>
+</head>
+<body>
+<th:block layout:fragment="body">
+    <form class="form-signin" id="v-form">
+        <div class="panel periodic-login">
+            <div class="panel-body text-center">
+                <h1 class="atomic-symbol" th:text="${page_user_brand}"></h1>
+                <p class="element-name" th:text="${page_user_brand_desc}"></p>
+                <i class="icons icon-arrow-down"></i>
+                <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                    <input name="uname" id="username" type="text" class="form-text v-gray" required="required" minlength="5" maxlength="30">
+                    <span class="bar"></span>
+                    <label>请输入用户名</label>
+                </div>
+                <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                    <input name="email" id="email" type="email" minlength="6" class="form-text v-gray" required="required">
+                    <span class="bar"></span>
+                    <label>请输入邮箱</label>
+                </div>
+                <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                    <input name="pwd" id="password" type="password" class="form-text v-gray" required="required">
+                    <span class="bar"></span>
+                    <label>请输入密码</label>
+                </div>
+                <input id="v-submit" type="button" class="btn col-md-12" value="注册">
+            </div>
+            <div class="text-center" style="margin:-10px; background-color: #F6F6F6; height:40px; line-height: 40px; color:#000!important;font-size:15px">
+                已有账号 ?&nbsp;<a href="/login" class="v-link">登录</a>
+            </div>
+        </div>
+    </form>
+</th:block>
+<th:block layout:fragment="vfooter">
+    <script th:replace="${script} :: script('modules/user/reg.js')"></script>
+</th:block>
+</body>
+</html>

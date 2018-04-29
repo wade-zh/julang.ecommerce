@@ -1,0 +1,21 @@
+server:
+  port: 20000
+spring:
+  application:
+    name: store-console-eureka-server
+eureka:
+  instance:
+    hostname: localhost
+  server:
+    # 服务留存比例，低于此值进入保护模式
+    renewal-percent-threshold: 0.85
+    # 开启保护模式
+    enable-self-preservation: true
+
+  client:
+    # 是否注册服务中心
+    register-with-eureka: true
+    # 获取服务注册信息
+    fetch-registry: false
+    service-url:
+     defaultZone: http://localhost:20000/eureka

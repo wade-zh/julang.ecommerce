@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th=http://www.thymeleaf.org>
+<head>
+    <th:block th:fragment="utils">
+        <script th:inline="javascript">
+            /*<![CDATA[*/
+            var url = [[${domain_resource}]];
+            $.get(url + "package.json", function (data) {
+                window.package = data;
+                window.gateway = {
+                    user: window.package.gateway + "user-api/"
+                }
+            })
+            /*]]>*/
+        </script>
+        <script th:replace="${script} :: script('base/ajax-error-handler.js')"></script>
+        <script th:replace="${script} :: script('utils/standard-message-is.js')"></script>
+        <script th:replace="${script} :: script('utils/layer-pop.js')"></script>
+        <script th:replace="${script} :: script('utils/javascript-utils/utils.js')"></script>
+    </th:block>
+</head>

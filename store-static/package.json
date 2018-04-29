@@ -1,0 +1,7 @@
+{
+  "name": "julang.ecommerce.store",
+  "version": "1.0.0",
+  "description": "巨浪商店",
+  "author": "root <2407439@qq.com>",
+  "gateway": "//localhost:20001/"
+}

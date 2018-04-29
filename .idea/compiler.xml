@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="console-eureka-server" />
+        <module name="demo" />
+        <module name="gateway-web" />
+        <module name="resource" />
+        <module name="store-api-gateway" />
+        <module name="store-common" />
+        <module name="store-console-eureka-server" />
+        <module name="store-entity" />
+        <module name="store-resource" />
+        <module name="store-service-user" />
+        <module name="store-shared-service" />
+        <module name="store-template" />
+        <module name="store-user-web" />
+        <module name="store-user-webapp" />
+        <module name="store-webapp-user" />
+        <module name="store.common" />
+        <module name="user-web" />
+        <module name="user-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="store-api-gateway" target="1.8" />
+      <module name="store-common" target="1.8" />
+      <module name="store-console-eureka-server" target="1.8" />
+      <module name="store-entity" target="1.8" />
+      <module name="store-service-user" target="1.8" />
+      <module name="store-shared" target="1.5" />
+      <module name="store-user-web" target="1.8" />
+      <module name="store-webapp-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
