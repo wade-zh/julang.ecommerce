@@ -102,7 +102,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <!--热部署配置-->
                 <configuration>
                     <fork>true</fork>
                 </configuration>
