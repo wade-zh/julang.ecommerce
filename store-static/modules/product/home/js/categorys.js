@@ -4,36 +4,33 @@ window.home.components.category = (function () {
     var bar_name = "商品分类",
         bar_icon = "fa-align-justify";
 
-    var categorys = {
-        id: 1,
-        code: "101",
-        name: "Clothing",
-        icon: "fa-shopping-bag",
-        parent_id: 0,
-        childs: [{
-            id: 2,
-            code: "10101",
-            name: "a",
-            parent_id: 1,
-            childs: [
-                {
-                    id: 3,
-                    code: "1010101",
-                    name: "b",
-                    parent_id: 2,
-                    childs: [
-                        {
-                            id: 4,
-                            code: "101010101",
-                            name: "c",
-                            parent_id: 3,
-                            childs: null
-                        }
-                    ]
-                }
-            ]
+    /*{
+        "id": 1,
+        "code": "101",
+        "name": "Clothing",
+        "icon": "fa-shopping-bag",
+        "parent_id": 0,
+        "childs": [{
+        "id": 2,
+        "code": "10101",
+        "name": "a",
+        "parent_id": 1,
+        "childs": [{
+            "id": 3,
+            "code": "1010101",
+            "name": "b",
+            "parent_id": 2,
+            "childs": [{
+                "id": 4,
+                "code": "101010101",
+                "name": "c",
+                "parent_id": 3,
+                "childs": null
+            }]
         }]
-    };
+    }]
+    }*/
+
 
     var $categorys = $("#categorys");
     var $elements = $categorys.find("nav .nav");
@@ -44,8 +41,10 @@ window.home.components.category = (function () {
          * @returns {{id: number, code: string, name: string, icon: string, parent_id: number, childs: *[]}}
          */
         getCategorys : function () {
-            return categorys;
-            $categorys.find(".head").text("<i class=\"icon fa " + bar_icon + " fa-fw\"></i>" + bar_name);
+            $.get("https://0665c2e3-f0ee-4d55-929c-82986b07a50d.mock.pstmn.io/categorys", function (data) {
+                $categorys.find(".head").text("<i class=\"icon fa " + bar_icon + " fa-fw\"></i>" + bar_name);
+                return data;
+            });
         },
         /**
          * 设置栏目标题
