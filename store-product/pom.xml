@@ -52,13 +52,13 @@
         </dependency>
         <!--Framework install end-->
 
-        <!--Public common code install begin-->
+        <!--Public entity code install begin-->
         <dependency>
             <groupId>store.julang</groupId>
-            <artifactId>store-common</artifactId>
+            <artifactId>store-entity</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <!--Public common code install end-->
+        <!--Public entity code install end-->
 
         <!--Thymeleaf install begin-->
         <dependency>
@@ -82,6 +82,15 @@
             <optional>true</optional>
         </dependency>
         <!--Devtools install end-->
+
+
+        <!--Public common install begin -->
+        <dependency>
+            <groupId>store.julang</groupId>
+            <artifactId>store-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--Public common install end -->
     </dependencies>
 
     <dependencyManagement>

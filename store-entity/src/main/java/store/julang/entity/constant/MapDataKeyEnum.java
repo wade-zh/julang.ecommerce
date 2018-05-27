@@ -1,4 +1,4 @@
-package store.julang.entity.enums;
+package store.julang.entity.constant;
 
 /***
  * 数据字典键名枚举类

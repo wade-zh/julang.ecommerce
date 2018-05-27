@@ -1,6 +1,6 @@
-store\julang\entity\enums\ModifyTypeEnum.class
+store\julang\entity\constant\MapDataKeyEnum.class
 store\julang\entity\shared\users\MapDataPubEntity.class
 store\julang\entity\message\StandardMessage$Codes.class
 store\julang\entity\message\StandardMessage.class
-store\julang\entity\enums\MapDataKeyEnum.class
+store\julang\entity\constant\ModifyTypeEnum.class
 store\julang\entity\main.class

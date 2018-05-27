@@ -25,7 +25,6 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <!--Protected common code install end-->
-
     </dependencies>
 
 </project>

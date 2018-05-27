@@ -5,6 +5,7 @@ spring:
     name: store-api-gateway
 eureka:
   instance:
+    virtual-host-name: store-api-gateway
     hostname: localhost
   client:
     service-url:

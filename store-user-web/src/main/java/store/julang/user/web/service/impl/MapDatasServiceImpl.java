@@ -1,7 +1,7 @@
 package store.julang.user.web.service.impl;
 
 import org.springframework.stereotype.Service;
-import store.julang.entity.enums.MapDataKeyEnum;
+import store.julang.entity.constant.MapDataKeyEnum;
 import store.julang.entity.shared.users.MapDataPubEntity;
 import store.julang.user.web.service.IMapDatasService;
 

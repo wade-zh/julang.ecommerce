@@ -64,41 +64,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/store-user-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserWebApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/store-user-web/src/main/java/store/julang/user/web/UserWebApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="432">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EntranceController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/store-user-web/src/main/java/store/julang/user/web/controller/EntranceController.java">
+      <file leaf-file-name="MapsRestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/controller/MapsRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="324">
+              <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapDataPubEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/shared/users/MapDataPubEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMapDataService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/IMapDataService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/1u8/src.zip!/java/util/function/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginMapDataServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/impl/LoginMapDataServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding>
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1170#1171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMapDataMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/mapper/IMapDataMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapDataEntity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/entity/MapDataEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-entity/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -158,10 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/store-static/utils/layer-pop.js" />
-        <option value="$PROJECT_DIR$/store-static/modules/user/entrance.js" />
-        <option value="$PROJECT_DIR$/store-webapp-user/src/main/resources/templates/shared/entrance/layout.html" />
-        <option value="$PROJECT_DIR$/store-webapp-user/src/main/resources/templates/signup/index.html" />
         <option value="$PROJECT_DIR$/store-shared/pom.xml" />
         <option value="$PROJECT_DIR$/store-api-gateway/src/test/java/store/julang/api/gateway/StoreApiGatewayApplicationTests.java" />
         <option value="$PROJECT_DIR$/store-webapp-user/src/main/resources/templates/shared/common/utils.html" />
@@ -194,7 +256,6 @@
         <option value="$PROJECT_DIR$/store-user-web/pom.xml" />
         <option value="$PROJECT_DIR$/store-user-web/src/main/resources/templates/signup/index.html" />
         <option value="$PROJECT_DIR$/store-static/modules/user/reg.js" />
-        <option value="$PROJECT_DIR$/store-api-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/controller/UsersRestController.java" />
         <option value="$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/IUserService.java" />
         <option value="$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/mapper/IUserMapper.java" />
@@ -209,6 +270,11 @@
         <option value="$PROJECT_DIR$/store-common/src/main/java/store/julang/common/utils/Constants.java" />
         <option value="$PROJECT_DIR$/store-common/src/main/java/store/julang/common/utils/ConstantRemotes.java" />
         <option value="$PROJECT_DIR$/store-common/src/main/java/store/julang/common/enums/Constants.java" />
+        <option value="$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/enums/EurekaInstances.java" />
+        <option value="$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/constant/EurekaInstances.java" />
+        <option value="$PROJECT_DIR$/store-api-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/shared/users/MapDataPubEntity.java" />
+        <option value="$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/mapper/IMapDataMapper.java" />
       </list>
     </option>
   </component>
@@ -395,6 +461,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="gateway-web" type="cbb8eebc:String" user="gateway-web" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="gateway-web" type="cbb8eebc:String" user="gateway-web" />
+              <item name="store-gateway/gateway-web" type="cbb8eebc:String" user="store-gateway/gateway-web" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julang.ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store-service-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
@@ -418,136 +546,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="EntranceController" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="entrance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="store-user-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="signup" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Production">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="gateway-web" type="cbb8eebc:String" user="gateway-web" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="gateway-web" type="cbb8eebc:String" user="gateway-web" />
-              <item name="store-gateway/gateway-web" type="cbb8eebc:String" user="store-gateway/gateway-web" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/store-static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -567,10 +571,22 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="store.julang.entity.constant" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="store.julang.service.user.service.impl" />
       <recent name="store.julang.service.user.service.impl.maps" />
       <recent name="store.julang.webapp.user.remote.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-user-webapp\src\main\resources\templates\shared\entrance" />
+      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-user-webapp\src\main\resources\templates\login" />
+      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-common\src\main\resources" />
+      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-webapp-user\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="store.julang.common" />
@@ -584,15 +600,6 @@
       <recent name="F:\repository\julang\julang.ecommerce\trunk\store-template\src\main\resources\templates" />
       <recent name="F:\repository\julang\julang.ecommerce\trunk\store-webapp-user" />
       <recent name="F:\repository\julang\julang.ecommerce\trunk\store-resource\src\main\resources\static" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-user-webapp\src\main\resources\templates\shared\entrance" />
-      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-user-webapp\src\main\resources\templates\login" />
-      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-common\src\main\resources" />
-      <recent name="F:\repository\julang\julang.ecommerce\trunk\store-webapp-user\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -934,6 +941,7 @@
       <workItem from="1524963543794" duration="772000" />
       <workItem from="1525255472507" duration="647000" />
       <workItem from="1526133995906" duration="602000" />
+      <workItem from="1527416427011" duration="5410000" />
     </task>
     <servers />
   </component>
@@ -970,7 +978,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202421000" />
+    <option name="totallyTimeSpent" value="207831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -987,10 +995,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5063966" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30627707" sideWeight="0.4936034" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30627707" sideWeight="0.4936034" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.488746" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaCheck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -998,7 +1007,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4936034" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32683983" sideWeight="0.49573562" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13059701" sideWeight="0.48756757" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13166311" sideWeight="0.48756757" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26332623" sideWeight="0.51243246" order="5" side_tool="true" content_ui="tabs" />
@@ -1013,7 +1022,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.511254" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -1035,11 +1043,17 @@
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/controller/MapsRestController.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="64" />
+      <option name="time" value="66" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
@@ -1101,56 +1115,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/store-entity/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-common/src/main/java/store/julang/common/main.java" />
-    <entry file="file://$PROJECT_DIR$/store-common/src/main/resources/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-common/src/main/java/store/julang/common/io/PropertiesUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/templates/shared/entrance/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/templates/shared/common/utils.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/templates/shared/common/link.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/templates/shared/entrance/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store-user-web/src/main/resources/templates/shared/entrance/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1190,34 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-api-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/java/store/julang/api/gateway/config/ApiGatewayCorssOriginConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/java/store/julang/api/gateway/StoreApiGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1280,13 +1216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/impl/LoginMapDataServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/impl/BaseMapDataService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1308,13 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/StoreServiceUserApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1325,13 +1247,6 @@
     <entry file="file://$PROJECT_DIR$/store-user-web/src/main/java/store/julang/user/web/service/IMapDatasService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/IMapDataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
@@ -1347,13 +1262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/controller/MapsRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1432,8 +1340,267 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/store-user-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
+        <state relative-caret-position="535">
           <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/java/store/julang/api/gateway/StoreApiGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-api-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/java/store/julang/api/gateway/config/ApiGatewayCorssOriginConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M8/spring-cloud-netflix-eureka-client-2.0.0.M8.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="230" column="16" lean-forward="false" selection-start-line="230" selection-start-column="16" selection-end-line="230" selection-end-column="16" />
+          <folding>
+            <marker date="1521947143664" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521947143664" expanded="false" signature="164:793" ph="..." />
+            <marker date="1521947143664" expanded="false" signature="2288:2299" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="2330:2336" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="2377:2796" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="2855:3489" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="3525:3663" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="3706:3717" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="3747:3753" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="3800:3880" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="3929:4011" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="4060:4314" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="4372:4726" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="4762:4773" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="4794:4800" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="4849:4860" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="4885:4891" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="4929:4940" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="4962:4968" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5020:5031" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5058:5064" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5096:5107" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5127:5133" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5177:5188" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5211:5217" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5254:5265" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5290:5296" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5350:5361" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5394:5400" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5444:5455" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5487:5493" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5562:5573" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5620:5626" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5661:5672" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5698:5704" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5757:5768" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5803:5809" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5841:5852" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5875:5881" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="5928:5939" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="5968:5974" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="6019:6030" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="6063:6069" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="6141:6206" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="6248:6259" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="6289:6295" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="6360:6371" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="6414:6420" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="6471:6482" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="6524:6530" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="6616:6699" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="6753:6764" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="6809:6815" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="6907:6996" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="7036:7047" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7075:7081" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="7141:7152" ph=" { " />
+            <marker date="1521947143664" expanded="true" signature="7191:7197" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7247:7258" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7287:7293" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7339:7350" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7384:7390" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="7463:7530" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="7562:7573" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7593:7599" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7643:7654" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7677:7683" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7732:7743" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7767:7773" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7838:7849" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7880:7886" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="7933:7944" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="7971:7977" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8043:8054" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8091:8097" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8131:8142" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8164:8170" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8212:8223" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8253:8259" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8323:8334" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8377:8383" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8421:8432" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8458:8464" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8520:8531" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8566:8572" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8612:8623" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8651:8657" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8717:8728" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8767:8773" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8809:8820" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8844:8850" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8902:8913" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="8944:8950" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="8993:9004" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9035:9041" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9107:9118" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9163:9169" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9208:9219" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9246:9252" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9310:9321" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9358:9364" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9409:9420" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9453:9459" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="9530:9595" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="9629:9640" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9662:9668" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9716:9727" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9754:9760" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9800:9811" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9839:9845" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="9906:9917" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="9956:9962" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="10008:10019" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="10045:10051" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="10115:10126" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="10161:10167" ph=" }" />
+            <marker date="1521947143664" expanded="false" signature="10223:10234" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="10276:10282" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="10373:10456" ph="{...}" />
+            <marker date="1521947143664" expanded="false" signature="10497:10508" ph=" { " />
+            <marker date="1521947143664" expanded="false" signature="10532:10538" ph=" }" />
+            <marker date="1521947143664" expanded="true" signature="10576:12634" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="12662:13385" ph="{...}" />
+            <marker date="1521947143664" expanded="true" signature="13416:15085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/constant/EurekaInstances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="219" column="57" lean-forward="true" selection-start-line="219" selection-start-column="57" selection-end-line="219" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/1u8/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/IMapDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-entity/src/main/java/store/julang/entity/shared/users/MapDataPubEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/controller/MapsRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/service/impl/LoginMapDataServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/mapper/IMapDataMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store-service-user/src/main/java/store/julang/service/user/entity/MapDataEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
         </state>
       </provider>

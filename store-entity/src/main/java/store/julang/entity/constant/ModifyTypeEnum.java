@@ -1,4 +1,4 @@
-package store.julang.entity.enums;
+package store.julang.entity.constant;
 
 public enum ModifyTypeEnum {
     UPDATE,
